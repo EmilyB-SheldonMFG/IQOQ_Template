@@ -11,7 +11,7 @@
             <li>Specific placement: Place probes uniformly 4 inches (100 mm) from each shelf side near the corner of the shelf and 2.5 inches (60 mm) above or below shelf surfaces. See Figure 4.</li>
             <li>Place probe 5 to at the center of the middle shelf with the probe head 2.5 inches (60 mm) above the shelf surface.</li>
             <li>Secure the probes to shelving using non-stick tape.</li>
-            <li>Ensure that probes 6 – 9 are on the bottom shelf, not on the incubation chamber floor.</li>
+            <li>Ensure that probes 6 – 9 are on the bottom shelf, not on the <MadCap:variable name="SL_Units.Chamber_Type" /> floor.</li>
         </ul>
     </body>
 </html>
