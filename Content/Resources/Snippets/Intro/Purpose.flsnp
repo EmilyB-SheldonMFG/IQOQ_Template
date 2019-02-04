@@ -4,6 +4,6 @@
         <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
-        <p>The goal of the installation qualification and operational qualification protocols is to ensure the unit – a <MadCap:variable name="SL_Units.SL_Product" />– is correctly installed and operates at factory specification in a new workspace environment. This may require adjustments to the unit and the ambient environment in order to provide a constant-temperature <MadCap:variable name="SL_Units.Chamber_Type" /> environment. By the end of the IQ OQ, any discovered deviances or nonconformities should be corrected or remedied.</p>
+        <p>The goal of the installation qualification and operational qualification protocols is to ensure the unit <span style="background-color: #ffff00;">(SMI12 </span><MadCap:variable name="SL_Units.SL_Product" />) is correctly installed and operates at factory specification in a new workspace environment. This may require adjustments to the unit and the ambient environment in order to provide a constant-temperature <MadCap:variable name="SL_Units.Chamber_Type" /> environment. By the end of the IQ OQ, any discovered deviances or nonconformities should be corrected or remedied.</p>
     </body>
 </html>
