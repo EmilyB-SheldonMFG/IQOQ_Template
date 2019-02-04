@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul>
+            <li>All test entry and test result blocks must be completed. All inspection and inspection result blocks must be completed.</li>
+            <li>Each test entry block and inspection block must be completed in non-soluble ink.</li>
+            <li>All Result blocks must be initialed and dated as indicated by the protocol.</li>
+            <li>Blank forms: Additional Data, Supplemental Information forms, or unused Equipment Logs may be left blank if there is no data to record. Draw a single diagonal line across the unused form, then initial and date the line.</li>
+            <li>All corrections will be made with a single line through the information being corrected and will be signed and dated by the individual performing the verification. If the reason for the change is unclear, the reason for the change will also be noted. This notification can be placed at that location in the protocol or in the Supplemental Information Section toward the end of this protocol. <b>No correction fluid is permitted.</b></li>
+            <li>If any test page in the IQ or OQ sections does not have sufficient space to record test results, you may copy the additional result information to a blank piece of paper.</li>
+            <ul class="circle">
+                <li>This additional paper must note the page number and name of the verification test or inspection, and it must be physically placed in the Supplemental Information Section at the end of this protocol. The additional pages must also be initialed and dated and recorded on the Additional, Data, Remarks, and Observation page at the end of the section the test was taken from.</li>
+            </ul>
+            <li>All documents attached or appended to this IQ OQ will have a clear indication of the uniqueness, such as a title or document control number. Each page on attached documents will be denoted with a page number.</li>
+        </ul>
+    </body>
+</html>

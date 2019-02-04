@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h5>Data Capture and Reporting Format</h5>
+        <p>All data obtained during the temperature distribution study must be attached to this protocol. This may take the form of a spreadsheet with appropriate notations for each chamber temperature probe data set, the logged ambient temperature probe data, and time.</p>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Stylesheets/Tables/Init_Date.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table style="mc-table-style: url('../Stylesheets/Tables/Init_Date.css');margin-left: auto;margin-right: 0;" class="TableStyle-Init_Date" cellspacing="0">
+            <col class="TableStyle-Init_Date-Column-Column1" style="width: 84px;" />
+            <col class="TableStyle-Init_Date-Column-Column1" style="width: 100px;" />
+            <col class="TableStyle-Init_Date-Column-Column1" style="width: 74px;" />
+            <col class="TableStyle-Init_Date-Column-Column1" style="width: 100px;" />
+            <tbody>
+                <tr class="TableStyle-Init_Date-Body-Body1">
+                    <td class="TableStyle-Init_Date-BodyB-Column1-Body1">
+                        <p><b>Initials:</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Init_Date-BodyB-Column1-Body1" style="border-right-style: none;border-right-width: 1px;border-right-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-left: 2px;padding-right: 0px;padding-top: 2px;padding-bottom: 2px;">
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-Init_Date-BodyB-Column1-Body1">
+                        <p><b>Date:</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Init_Date-BodyA-Column1-Body1" style="border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-left: 2px;padding-right: 0px;padding-top: 2px;padding-bottom: 2px;">
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

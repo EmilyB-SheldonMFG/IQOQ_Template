@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags">
+  <ConditionTag
+    Comment=""
+    Name="220 - 240V"
+    BackgroundColor="#ffa500" />
+  <ConditionTag
+    Comment=""
+    Name="110 - 120V"
+    BackgroundColor="#7fff00" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="100 - 120V"
+    Comment="" />
+</CatapultConditionTagSet>

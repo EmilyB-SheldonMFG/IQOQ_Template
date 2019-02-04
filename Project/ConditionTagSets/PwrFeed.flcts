@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags">
+  <ConditionTag
+    Comment=""
+    Name="PwrFd-Hardwire"
+    BackgroundColor="#228b22" />
+  <ConditionTag
+    Comment=""
+    Name="PwrFd-Cord"
+    BackgroundColor="#ff00ff" />
+</CatapultConditionTagSet>

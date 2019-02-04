@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h5>PwC – Not Significant</h5>
+        <ul>
+            <li>A justification for acceptance of the deviation must be recorded on the Deviation Detail Form (page <MadCap:xref href="../../Topics/Dev_Detail.htm#Dev_Detail">1</MadCap:xref>).</li>
+            <li>The justification must be approved by the Final Reviewer. Approval is indicated by the Final Reviewer initialing and dating the justification.</li>
+        </ul>
+    </body>
+</html>

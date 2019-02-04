@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>The following documentation requirements apply to all deviations or nonconformities discovered during the IQ OQ.</p>
+        <ul>
+            <li>Regardless of the Result type, all discovered deviations and nonconformities must be briefly noted in the Additional Remarks and Observations form at the end of the section or subsection in which it was discovered.</li>
+            <ul class="circle">
+                <li>The note must include the page number and name of the test or inspection.</li>
+            </ul>
+            <li>All discovered deviations and nonconformities must be described on the <b>Deviation Detail Form</b> (page <MadCap:xref href="../../Topics/Dev_Detail.htm#Dev_Detail">1</MadCap:xref>) including the name and page number of the test or inspection.</li>
+        </ul>
+    </body>
+</html>

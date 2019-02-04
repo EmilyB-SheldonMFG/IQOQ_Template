@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>The following documents will be required to perform an IQ OQ.</p>
+        <ul>
+            <li>Documents specifying the client’s required unit performance specifications. This can include Specified Requirements or Tender documents listing the required performance ranges.</li>
+            <li>Copies of documents specifying the model type and serial number of the unit purchased, such as a Purchase Order or Equipment Quotation.</li>
+            <li>A copy of the unit user manual (normally referred to as an Installation and Operation manual) must be on hand and will be used in executing the IQ OQ.</li>
+            <li>Up-to-date copies of any Standard Operating Procedures (SOP) required for operating the unit on site.</li>
+            <li>Any Spare or Replacement Parts Lists must be recorded, along with the location of the parts.</li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>&#160;</p>
+        <p>The recommended timeline below meets the two-day standard for carrying out the full IQ OQ protocol by sequencing procedures so that the unit only needs to be brought up to a stable temperature from a cold start one time. The unit must be heat-soaked and running at a stabilized test temperature prior to beginning the OQ temperature distribution study. <MadCap:conditionalText MadCap:conditions="ProductCat.Incubator,ProductCat.IncubatorCO2,ProductCat.IncubatorPeltier">The <MadCap:variable name="SL_Units.Chamber_Type" />must be heat-soaked and running stabilized at 37°C prior to beginning the OQ temperature study.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="ProductCat.Incubator"> <b>This requires a minimum of 8 hours</b></MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="ProductCat.IncubatorCO2"><b>This requires a minimum of 12 hours</b> </MadCap:conditionalText>operating with the chamber closed and sealed.</p>
+        <p MadCap:conditions="ProductCat.Incubator,ProductCat.IncubatorCO2,ProductCat.IncubatorPeltier">The manufacturer recommends allowing the <MadCap:variable name="SL_Units.SL_Product" /> to heat to temperature and stabilize overnight.</p>
+        <p MadCap:conditions="ProductCat.Oven"><b>Achieving a stable test temperature of 150°C requires a minimum of 45 minutes 3 hours</b> operating with the <MadCap:variable name="SL_Units.Chamber_Type" /> door and vents sealed.</p>
+        <p MadCap:conditions="ProductCat.Oven_Vac"><b>Achieving a stable test temperature of 150°C requires a minimum of 3 hours</b> operating with the <MadCap:variable name="SL_Units.Chamber_Type" /> heating under vacuum.</p>
+    </body>
+</html>

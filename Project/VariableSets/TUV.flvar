@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="ProductType"
+    EvaluatedDefinition="oven">oven</Variable>
+  <Variable
+    Name="ProductType"
+    Comment=""
+    EvaluatedDefinition="anaerobic chamber">anaerobic chamber</Variable>
+  <Variable
+    Name="ProductType"
+    Comment=""
+    EvaluatedDefinition="water bath">water bath</Variable>
+  <Variable
+    Name="ProductType"
+    Comment=""
+    EvaluatedDefinition="heated bath">heated bath</Variable>
+  <Variable
+    Name="ProductType"
+    Comment=""
+    EvaluatedDefinition="CO2 incubator">CO2 incubator</Variable>
+  <Variable
+    Name="ProductType"
+    Comment=""
+    EvaluatedDefinition="vacuum oven">vacuum oven</Variable>
+  <Variable
+    Name="ProductType"
+    Comment=""
+    EvaluatedDefinition="forced air oven">forced air oven</Variable>
+  <Variable
+    Name="ProductType"
+    Comment=""
+    EvaluatedDefinition="incubator">incubator</Variable>
+  <Variable
+    Name="ProductType"
+    Comment=""
+    EvaluatedDefinition="large reach-in incubator">large reach-in incubator</Variable>
+  <Variable
+    Name="ProductType"
+    Comment=""
+    EvaluatedDefinition="orbital shaking incubator">orbital shaking incubator</Variable>
+</CatapultVariableSet>

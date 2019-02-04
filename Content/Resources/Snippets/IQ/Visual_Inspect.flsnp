@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h5>Procedure</h5>
+        <ul>
+            <li>Visually confirm the unit being tested with this IQ OQ protocol document is a .</li>
+            <li>Visually verify the serial number of the unit and record it in the space provided below on this page. The number is found on the unit data plate.</li>
+            <li>Verify the unit serial number matches the Unit Serial Number found on the front cover of this IQ OQ document.</li>
+            <li>Record the name of the specific location where the <MadCap:variable name="SL_Units.SL_Product" /> is installed. Example: <i>Organic Chemistry Lab 3, Rm 212.</i></li>
+        </ul>
+    </body>
+</html>

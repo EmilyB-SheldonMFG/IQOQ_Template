@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h5>Sheldon Manufacturing, INC. or designee:</h5>
+        <ul>
+            <li>Authors the IQ OQ protocol with valid acceptance criteria</li>
+            <li>Ensures the protocol is technically accurate</li>
+            <li>Provides a complete documentation package</li>
+            <li>
+                <MadCap:conditionalText MadCap:conditions="Company_Branding.SHEL LAB">Signs the Completion Declaration as the Final Reviewer after reviewing the IQ OQ and data gathered during its execution.
+</MadCap:conditionalText><![CDATA[            ]]></li>
+        </ul>
+    </body>
+</html>

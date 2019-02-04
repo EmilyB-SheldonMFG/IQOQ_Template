@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags">
+  <ConditionTag
+    Comment=""
+    Name="Shelving_Yes"
+    BackgroundColor="#7fff00" />
+  <ConditionTag
+    Comment=""
+    Name="Feet_None"
+    BackgroundColor="#00bfff" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Feet_Leveling"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#a52a2a"
+    Name="Access_Port"
+    Comment="" />
+</CatapultConditionTagSet>

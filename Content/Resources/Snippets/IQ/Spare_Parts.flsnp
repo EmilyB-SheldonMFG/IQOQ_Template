@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h5>Procedure</h5>
+        <ul>
+            <li>Review and document the location of any recommended Spare Parts List for the unit.</li>
+            <li>Document the location of all spare parts that are kept in stock (if any). This information should be provided in the Supplemental Information Section of this protocol. See page <MadCap:xref href="../../Topics/SIS.htm#SIS">1</MadCap:xref>.</li>
+        </ul>
+    </body>
+</html>

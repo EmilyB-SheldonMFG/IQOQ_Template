@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment=""
+  Type="PDF"
+  Destinations=""
+  ConditionTagExpression=""
+  PatchHeadingLevels="false"
+  InjectEmptyPages="true"
+  MasterToc="/Project/TOCs/IQOQ.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/Blank.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/SHELLAB.css"
+  OutputFolder="H:\Temp"
+  InjectBookHeadings="false"
+  DisableAutoSync="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Title=""
+    Author="Emily Baker" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="75"
+    PageLayout="TwoPageLeft"
+    TitleBar="FileName"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="false"
+    PageMode="UseNone" />
+  <Variables>
+    <Variable
+      Name="IQOQ/Unit Name">SCO2W</Variable>
+  </Variables>
+</CatapultTarget>

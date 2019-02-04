@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>Prior to starting testing, perform the following procedures found in the Operation chapter of the Installation and Operation user manual.</p>
+        <ol>
+            <li MadCap:conditions="PwrFeed.PwrFd-Cord">Plug the  unit into its power source.</li>
+            <li MadCap:conditions="Gas_Vac_Liquids.CO2">Open the gas regulator as described in the Operation chapter of the user manual, supplying a flow of CO<sub>2</sub> to the unit.</li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h5>Read the Protocol Requirements</h5>
+        <ul>
+            <li>This section establishes a strict set of definitions, criteria, and a documentation methodology to ensure all tests and inspections generate and capture meaningful results.</li>
+            <li>Establishes standards and practices to make sure any discovered deviations or nonconformities are documented and corrected or remedied.</li>
+            <li>Lists the equipment required to perform the IQ OQ.</li>
+        </ul>
+    </body>
+</html>

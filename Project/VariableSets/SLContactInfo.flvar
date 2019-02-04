@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="EmailTechSupp"
+    EvaluatedDefinition="support@sheldonmfg.com">support@sheldonmfg.com</Variable>
+  <Variable
+    Comment=""
+    Name="Extension-Parts"
+    EvaluatedDefinition="extension 3">extension 3</Variable>
+  <Variable
+    Name="EmailTechSupp"
+    Comment=""
+    EvaluatedDefinition="support@cascadetek.com">support@cascadetek.com</Variable>
+  <Variable
+    Name="Extension-TechSP"
+    Comment=""
+    EvaluatedDefinition="extension 4">extension 4</Variable>
+  <Variable
+    Name="PhoneFax"
+    Comment=""
+    EvaluatedDefinition="FAX: (503) 640-1366">FAX: (503) 640-1366</Variable>
+  <Variable
+    Name="PhonePrimary"
+    Comment=""
+    EvaluatedDefinition="(503)640-3000">(503)640-3000</Variable>
+  <Variable
+    Name="PhoneSecondary"
+    Comment=""
+    EvaluatedDefinition="1-800-322-4897">1-800-322-4897</Variable>
+  <Variable
+    Name="Website"
+    Comment=""
+    EvaluatedDefinition="sheldonmanufacturing.com">sheldonmanufacturing.com</Variable>
+  <Variable
+    Name="Website"
+    Comment=""
+    EvaluatedDefinition="cascadetek.com">cascadetek.com</Variable>
+  <Variable
+    Name="Website"
+    Comment=""
+    EvaluatedDefinition="labarmor.com">labarmor.com</Variable>
+</CatapultVariableSet>

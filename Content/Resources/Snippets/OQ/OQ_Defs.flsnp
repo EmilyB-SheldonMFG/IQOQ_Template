@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h5>Definitions</h5>
+        <p>&#160;</p>
+        <ul>
+            <li><b>Calibrated:</b> The average chamber temperature (as measured by the data logging equipment) matches the current incubator set point and the displayed chamber temperature to at least 0.1°C for each temperature required for the test request. Otherwise, the probe locations might be perceived as out of spec when actually in spec.</li>
+            <p>&#160;</p>
+            <li><b>Stability:</b> The temperature stability is the temporal temperature variation and is given by the amplitude of the temperature curve as a function of time. The average of all probes at a given point in time is then viewed across the testing period and compared to the set point value.</li>
+            <p>&#160;</p>
+            <li><b>Uniformity:</b> The temperature uniformity (distribution) is the spatial temperature variation given by the difference between the mean values measured at the two measuring points showing the greatest difference (i.e. the Maximum and Minimum) at a point in time. This is also referred to as Temperature Homogeneity. Uniformity is calculated by (MAX - MIN / 2) and produces the +/- degrees C performance data. For example: +/-0.5 degC. This method also helps to normalize for the effects of ambient temperature and voltage changes.</li>
+            <p>&#160;</p>
+            <li><b>Ambient Temperature:</b> The air temperature in the same section of the room where the unit has been installed.</li>
+        </ul>
+    </body>
+</html>

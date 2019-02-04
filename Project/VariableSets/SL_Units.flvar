@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Access Port"
+    EvaluatedDefinition="Stopper">Stopper</Variable>
+  <Variable
+    Comment=""
+    Name="Amb_Temp_Range"
+    EvaluatedDefinition="15°C and 30°C (59°F and 86°F)">15°C and 30°C (59°F and 86°F)</Variable>
+  <Variable
+    Name="Access Port"
+    Comment=""
+    EvaluatedDefinition="Cover">Cover</Variable>
+  <Variable
+    Name="Amb_Temp_Range"
+    Comment=""
+    EvaluatedDefinition="15°C and 40°C (59°F and 104°F)">15°C and 40°C (59°F and 104°F)</Variable>
+  <Variable
+    Name="Chamber_Type"
+    Comment=""
+    EvaluatedDefinition="oven chamber">oven chamber</Variable>
+  <Variable
+    Name="Chamber_Type"
+    Comment=""
+    EvaluatedDefinition="incubation chamber">incubation chamber</Variable>
+  <Variable
+    Name="Chamber_Type"
+    Comment=""
+    EvaluatedDefinition="workspace chamber">workspace chamber</Variable>
+  <Variable
+    Name="Chamber_Type"
+    Comment=""
+    EvaluatedDefinition="bath tank">bath tank</Variable>
+  <Variable
+    Name="Interior_Type"
+    Comment=""
+    EvaluatedDefinition="chamber">chamber</Variable>
+  <Variable
+    Name="Interior_Type"
+    Comment=""
+    EvaluatedDefinition="tank">tank</Variable>
+  <Variable
+    Name="PowerPhase"
+    Comment=""
+    EvaluatedDefinition="single">single</Variable>
+  <Variable
+    Name="PowerPhase"
+    Comment=""
+    EvaluatedDefinition="three">three</Variable>
+  <Variable
+    Name="SL_Product"
+    Comment=""
+    EvaluatedDefinition="incubator">incubator</Variable>
+  <Variable
+    Name="SL_Product"
+    Comment=""
+    EvaluatedDefinition="vacuum oven">vacuum oven</Variable>
+  <Variable
+    Name="SL_Product"
+    Comment=""
+    EvaluatedDefinition="oven">oven</Variable>
+  <Variable
+    Name="SL_Product"
+    Comment=""
+    EvaluatedDefinition="bath">bath</Variable>
+  <Variable
+    Name="SL_Product"
+    Comment=""
+    EvaluatedDefinition="humidity cabinet">humidity cabinet</Variable>
+</CatapultVariableSet>

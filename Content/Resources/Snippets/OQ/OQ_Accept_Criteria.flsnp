@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h5>Acceptance Criteria</h5>
+        <p>The following criteria must be met for the OQ protocol to be signed off as complete.</p>
+        <ol>
+            <li>All result blocks have been marked <i>Pass</i> or <i>Pass with Comment – Not Significant.</i></li>
+            <li>If any result block was marked <i>Pass with Comment – Significant,</i> the deviation must be remedied before the OQ can be signed off.</li>
+            <ul class="circle">
+                <li>The CAP must have successfully remedied the deviation.</li>
+                <li>All deviation documentation requirements listed on page  <MadCap:xref href="../../Topics/Proto_Reqs/Deviations.htm#Dev_NC_Docu">1</MadCap:xref> must be met.</li>
+            </ul>
+            <li>If any result block was marked <i>Fail,</i> the nonconformity must be remedied before the OQ can be signed off.</li>
+            <ul class="circle">
+                <li>The CAP must have successfully remedied the nonconformity.</li>
+                <li>All documentation requirements for nonconformities listed on page  <MadCap:xref href="../../Topics/Proto_Reqs/Deviations.htm#Dev_NC_Docu">1</MadCap:xref> must be met.</li>
+            </ul>
+        </ol>
+    </body>
+</html>

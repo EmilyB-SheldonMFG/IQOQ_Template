@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="No_Space"><MadCap:variable name="SL_Contact.PO Box" />
+        </p>
+        <p class="No_Space"><MadCap:variable name="SL_Contact.City_State" />
+        </p>
+        <p class="No_Space"><MadCap:variable name="SL_Contact.Country" />
+        </p>
+        <p class="No_Space">&#160;</p>
+        <p class="No_Space"><MadCap:variable name="SL_Contact.Email" />
+        </p>
+        <p class="No_Space"><MadCap:variable name="SL_Contact.Website" />
+        </p>
+        <p class="No_Space">&#160;</p>
+        <p class="No_Space"><MadCap:variable name="SL_Contact.Toll Free" />
+        </p>
+        <p class="No_Space"><MadCap:variable name="SL_Contact.PhoneNumber" />
+        </p>
+        <p class="No_Space"><MadCap:variable name="SL_Contact.Fax" />
+        </p>
+    </body>
+</html>

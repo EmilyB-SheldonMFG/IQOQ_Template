@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/Tables/Result_Defs.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p><b>Documentation requirements for Pass with Comments and Fails results are located on the next page.</b> All verification Result blocks in the protocol must be completed using the following notations.</p>
+        <p>&#160;</p>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Stylesheets/Tables/Result_Defs.css');" class="TableStyle-Result_Defs" cellspacing="0">
+            <col style="width: 46px;" class="TableStyle-Result_Defs-Column-Column1" />
+            <col style="width: 26px;" class="TableStyle-Result_Defs-Column-Column2" />
+            <col class="TableStyle-Result_Defs-Column-Column3" />
+            <tbody>
+                <tr class="TableStyle-Result_Defs-Body-Body1">
+                    <td style="vertical-align: top;padding-left: 4px;padding-right: 4px;padding-top: 4px;padding-bottom: 4px;" class="TableStyle-Result_Defs-BodyH-Column1-Body1">P
+                    </td>
+                    <td class="TableStyle-Result_Defs-BodyH-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Result_Defs-BodyG-Column3-Body1"><b>Pass.</b> The test or inspection outcomes met the specifications stated in the Acceptance Criteria block.</td>
+                </tr>
+                <tr class="TableStyle-Result_Defs-Body-Body1">
+                    <td style="vertical-align: top;padding-left: 4px;padding-right: 4px;padding-top: 4px;padding-bottom: 4px;" class="TableStyle-Result_Defs-BodyE-Column1-Body1">PwC
+                    </td>
+                    <td class="TableStyle-Result_Defs-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Result_Defs-BodyD-Column3-Body1"><b>Pass with Comment.</b> The test or inspection discovered a minor deviation. There are two sub-classifications of this notation, <i>Not Significant</i> and <i>Significant.</i></td>
+                </tr>
+                <tr class="TableStyle-Result_Defs-Body-Body1">
+                    <td class="TableStyle-Result_Defs-BodyH-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Result_Defs-BodyH-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Result_Defs-BodyG-Column3-Body1">
+                        <p><u><i>PwC - Not Significant </i></u><b>(PwC-NS)</b>. The discovered minor deviation is within the acceptable range of the client’s specified performance requirements, does not affect the overall unit performance, and does not require a remedy. <b>A justification must be documented</b> by the testing party and then approved by the Final Reviewer.</p>
+                        <p>See the next page for the documentation requirements.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Result_Defs-Body-Body1">
+                    <td class="TableStyle-Result_Defs-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Result_Defs-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Result_Defs-BodyD-Column3-Body1">
+                        <p><i style="text-decoration: underline;">PwC - Significant</i> <b>(PwC-S)</b>. The tests or inspections discovered a significant deviation requiring a minor remedy. A minor remedy can be enacted and tested within the standard two-day time span of an IQ OQ. Minor remedies include actions such as moving the unit within a room to avoid sources of heat or cold or minor repairs to the unit on site.</p>
+                        <p>See the next page for the documentation requirements for a PwC-S result.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Result_Defs-Body-Body1">
+                    <td style="vertical-align: top;padding-left: 4px;padding-right: 4px;padding-top: 4px;padding-bottom: 4px;" class="TableStyle-Result_Defs-BodyH-Column1-Body1">F
+                    </td>
+                    <td class="TableStyle-Result_Defs-BodyH-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Result_Defs-BodyG-Column3-Body1">
+                        <p><b>	Fail.</b> A Fail does not preclude the unit from passing the IQ OQ. A fail means the test or inspection discovered a nonconformity preventing the unit from meeting specification and requiring a major remedy. The IQ OQ may be completed, and the unit certified <b>after</b> a documented remedy successfully eliminates the nonconformity.</p>
+                        <p>See the next page for the documentation requirements for a Fail result.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Result_Defs-Body-Body1">
+                    <td class="TableStyle-Result_Defs-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-Result_Defs-BodyE-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Result_Defs-BodyD-Column3-Body1">Major remedies typically fall outside the two-day span of an IQ OQ and include scenarios such as a factory repair of significant damage to the unit or major alterations to the workspace environment.</td>
+                </tr>
+                <tr class="TableStyle-Result_Defs-Body-Body1">
+                    <td class="TableStyle-Result_Defs-BodyH-Column1-Body1">N/A
+                    </td>
+                    <td class="TableStyle-Result_Defs-BodyH-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Result_Defs-BodyG-Column3-Body1"><b>Not Applicable.</b> The testing specified is in error or is not applicable to the function listed.</td>
+                </tr>
+                <tr class="TableStyle-Result_Defs-Body-Body1">
+                    <td class="TableStyle-Result_Defs-BodyB-Column1-Body1">N/S
+                    </td>
+                    <td class="TableStyle-Result_Defs-BodyB-Column2-Body1">&#160;</td>
+                    <td class="TableStyle-Result_Defs-BodyA-Column3-Body1"><b>Not Specified.</b> The testing specified is in error and was not in the original equipment specification.</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

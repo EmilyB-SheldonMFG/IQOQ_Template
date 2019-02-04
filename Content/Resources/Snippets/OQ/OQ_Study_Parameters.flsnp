@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h4>1. Study Execution Parameters</h4>
+        <ul>
+            <li>Each incubator should be tested under normal environmental conditions for the workspace area.</li>
+            <ul class="circle">
+                <li>Changes in ambient temperature may adversely affect test results. Test readings for uniformity should only be taken when the ambient temperature has been constant for a minimum of 2 hours.</li>
+                <li>The ambient temperature <b>cannot vary more than 2°C</b> during the test for the uniformity for measurements to be considered usable.</li>
+            </ul>
+            <li>Each incubator must be running at 37°C and thermally stable at the start of the study. The incubator temperature is considered stable when both of the following conditions are true:</li>
+            <ul class="circle">
+                <li>No temperature fluctuations greater than ±0.1°C have been seen on the unit temperature display for 1 hour.</li>
+                <li>The data logger has detected no temperature fluctuations greater than ±0.1°C for 1 hour.</li>
+            </ul>
+            <li>The thermocouple probes are intended to measure the heated air temperature. The probe thermocouple junctions (AKA heads) must be freestanding, 2.5 inches (60 mm) in the air to avoid heat sinking from the shelf surface.</li>
+            <li>Temperature readings must be taken once per minute during the study.</li>
+            <li>Line voltage may not vary more than a total of 5% during the test. Larger variations disqualify the test data for the period.</li>
+            <li>Each incubator must be empty during the testing, except for shelving and temperature distribution study equipment.</li>
+        </ul>
+    </body>
+</html>

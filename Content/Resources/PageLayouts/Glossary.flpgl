@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="firstright" Name="FirstRight_SLGlossary">
+        <Frame Flow="footer" Height="0.5in" Right="-1px" Bottom="-85px" X="1px" Y="9.385417in" Width="6.5in" TextAlign="right" VerticalAlign="middle" Anchors="" BorderTopStyle="solid" BorderTopWidth="0.5pt" BorderTopColor="#d3d3d3">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold;" /> <xhtml:b>|</xhtml:b> <xhtml:span xhtml:style="color: #a7a6a6;"> Page</xhtml:span></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-76px" Y="-66px" Width="796px" Height="45px" FlowIndex="1" Right="-96px" Bottom="885px" PaddingLeft="20px" Anchors="" PaddingBottom="0" BackgroundType="Solid" BackgroundColor="#00aeef" BackgroundColorAlt="#00aeef" BorderBottomStyle="solid" BorderBottomWidth="7px" BorderBottomColor="#a6a4a4;device-cmyk(0,0.01,0.01,0.35)" Flow="body" />
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9.427083in" X="0px" Y="-12px" Right="0px" Bottom="-29px" FlowIndex="2">
+        </Frame>
+        <Frame X="0px" Y="915px" Width="177px" Height="24px" Flow="decoration0" Right="447px" Bottom="-75px" BackgroundImage="../Images/SLFooter_Lnk.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="-1px" Y="-91px" Width="627px" Height="25px" Flow="decoration1" Right="-2px" Bottom="930px" VerticalAlign="middle" Anchors="" TextAlign="center">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p><xhtml:i xhtml:style="color: #808080;font-weight: bold;"><xhtml:span xhtml:style="font-size: 9pt;font-family: 'Proxima Nova';font-weight: bold;font-style: italic;color: #808080;">The information contained in this document is proprietary and confidential. Do not copy or distribute.</xhtml:span></xhtml:i>
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="left" Name="Left_SLGlossary">
+        <Frame Flow="header" Height="0.3854167in" Right="-96px" X="-76px" Y="-0.6875in" ColumnCount="1" Width="8.291667in" Bottom="893px" PaddingLeft="58pt" Anchors="" BackgroundType="Solid" BackgroundColor="#a7a6a6" BackgroundColorAlt="#a7a6a6" TextAlign="left" VerticalAlign="middle">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="Header2SL">GLOSSARY</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="0.5in" Right="0px" Bottom="-85px" X="0px" Y="9.385417in" Width="6.5in" VerticalAlign="middle" Anchors="" BorderTopStyle="solid" BorderTopWidth="0.5pt" BorderTopColor="#d3d3d3">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold; background-color: #ffffff;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></MadCap:variable><xhtml:b>| </xhtml:b><xhtml:span xhtml:style="color: #a7a6a6;"> Page</xhtml:span>
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9.427083in" X="0px" Y="-12px" Right="0px" Bottom="-29px" Anchors="">
+        </Frame>
+        <Frame X="445px" Y="915px" Width="177px" Height="24px" Flow="decoration0" Right="2px" Bottom="-75px" BackgroundImage="../Images/SLFooter_Lnk.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="-1px" Y="-91px" Width="627px" Height="25px" Flow="decoration1" Right="-2px" Bottom="930px" VerticalAlign="middle" Anchors="" TextAlign="center">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p><xhtml:i xhtml:style="color: #808080;font-weight: bold;"><xhtml:span xhtml:style="font-size: 9pt;font-family: 'Proxima Nova';font-weight: bold;font-style: italic;color: #808080;">The information contained in this document is proprietary and confidential. Do not copy or distribute.</xhtml:span></xhtml:i>
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="right" Name="Right_SLGlossary">
+        <Frame Flow="header" Height="0.3854167in" Right="-96px" X="-76px" Y="-0.6875in" ColumnCount="1" Width="8.291667in" Bottom="893px" PaddingLeft="58pt" BackgroundColor="#a7a6a6" BackgroundColorAlt="#a7a6a6" Anchors="" BackgroundType="Solid" PaddingRight="0" TextAlign="left" VerticalAlign="middle">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="Header2SL">GLOSSARY</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="0.5in" Right="-1px" Bottom="-85px" X="1px" Y="9.385417in" Width="6.5in" TextAlign="right" VerticalAlign="middle" Anchors="" BorderTopStyle="solid" BorderTopWidth="0.5pt" BorderTopColor="#d3d3d3">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold;" /> <xhtml:b>|</xhtml:b> <xhtml:span xhtml:style="color: #a7a6a6;"> Page</xhtml:span></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9.427083in" X="0px" Y="-12px" Right="0px" Bottom="-29px">
+        </Frame>
+        <Frame X="0px" Y="915px" Width="177px" Height="24px" Flow="decoration0" Right="447px" Bottom="-75px" BackgroundImage="../Images/SLFooter_Lnk.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="-1px" Y="-91px" Width="627px" Height="25px" Flow="decoration1" Right="-2px" Bottom="930px" VerticalAlign="middle" Anchors="" TextAlign="center">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p><xhtml:i xhtml:style="color: #808080;font-weight: bold;"><xhtml:span xhtml:style="font-size: 9pt;font-family: 'Proxima Nova';font-weight: bold;font-style: italic;color: #808080;">The information contained in this document is proprietary and confidential. Do not copy or distribute.</xhtml:span></xhtml:i>
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="emptyleft" Name="LeftEmpty_SLGlossary">
+        <Frame Flow="header" Height="0.3854167in" Right="-96px" X="-76px" Y="-0.6875in" ColumnCount="1" Width="8.291667in" Bottom="893px" PaddingLeft="58pt" BackgroundType="Solid" BackgroundColor="#a7a6a6" BackgroundColorAlt="#a7a6a6" Anchors="" VerticalAlign="middle">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="Header2SL">GLOSSARY</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="0.5in" Right="0px" Bottom="-85px" X="0px" Y="9.385417in" Width="6.5in" VerticalAlign="middle" Anchors="" BorderTopStyle="solid" BorderTopWidth="0.5pt" BorderTopColor="#d3d3d3">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p><MadCap:variable xhtml:name="System.PageNumber" xhtml:style="font-weight: bold;" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></MadCap:variable><xhtml:b>| </xhtml:b><xhtml:span xhtml:style="color: #a7a6a6;"> Page</xhtml:span>
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9.427083in" X="0px" Y="-12px" Right="0px" Bottom="-29px">
+        </Frame>
+        <Frame X="445px" Y="915px" Width="177px" Height="24px" Flow="decoration1" Right="2px" Bottom="-75px" BackgroundImage="../Images/SLFooter_Lnk.png" BackgroundRepeat="stretch" Anchors="" />
+        <Frame X="-1px" Y="-91px" Width="627px" Height="25px" Flow="decoration2" Right="-2px" Bottom="930px" VerticalAlign="middle" Anchors="" TextAlign="center" FlowIndex="1">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p><xhtml:i xhtml:style="color: #808080;font-weight: bold;"><xhtml:span xhtml:style="font-size: 9pt;font-family: 'Proxima Nova';font-weight: bold;font-style: italic;color: #808080;">The information contained in this document is proprietary and confidential. Do not copy or distribute.</xhtml:span></xhtml:i>
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="168px" Y="164px" Width="3.083333in" Height="3.052083in" Flow="decoration2" Right="160px" Bottom="407px" BackgroundImage="../Images/SHEL_LAB_Atom_Mini20.png" BackgroundRepeat="stretch" Anchors="" FlowIndex="1" />
+        <Frame X="255px" Y="291px" Width="157px" Height="26px" Flow="decoration2" Right="212px" Bottom="547px" TextAlign="center">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>This page left blank</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

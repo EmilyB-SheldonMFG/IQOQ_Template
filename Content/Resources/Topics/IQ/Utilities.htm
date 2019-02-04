@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/Tables/BodyLeft.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../Stylesheets/Tables/Init_Date.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../Stylesheets/Tables/Init_Date.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>&#160;</p>
+        <h2>Utilities</h2>
+        <MadCap:snippetBlock src="../../Snippets/IQ/Utilities.flsnp" />
+        <p>&#160;</p>
+        <h5>Visual Inspection and Testing</h5>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Stylesheets/Tables/BodyLeft.css');" class="TableStyle-BodyLeft" cellspacing="0">
+            <col class="TableStyle-BodyLeft-Column-Column1" style="width: 175px;" />
+            <col class="TableStyle-BodyLeft-Column-Column2" style="width: 271px;" />
+            <col class="TableStyle-BodyLeft-Column-Column1" style="width: 99px;" />
+            <col class="TableStyle-BodyLeft-Column-Column2" style="width: 116px;" />
+            <thead>
+                <tr class="TableStyle-BodyLeft-Head-Header1">
+                    <th class="TableStyle-BodyLeft-HeadD-Column1-Header1" colspan="4">&#160; Utilities: Power <MadCap:conditionalText MadCap:conditions="Gas_Vac_Liquids.AMG,Gas_Vac_Liquids.CO2,Gas_Vac_Liquids.Compressed Air,Gas_Vac_Liquids.N2,Gas_Vac_Liquids.GN2,Gas_Vac_Liquids.O2">and Gas</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Gas_Vac_Liquids.Vacuum"> and Vacuum</MadCap:conditionalText> Supply</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-BodyLeft-Body-Body1">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1" style="font-weight: bold;text-align: center;border-right-style: none;border-right-width: 0px;border-right-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-left: 2px;padding-right: 2px;padding-top: 2px;padding-bottom: 2px;">Verification</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column2-Body1" style="font-weight: bold;text-align: center;border-right-style: none;border-right-width: 0px;border-right-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-left: 2px;padding-right: 2px;padding-top: 2px;padding-bottom: 2px;">Specification</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1" style="font-weight: bold;text-align: center;border-right-style: none;border-right-width: 0px;border-right-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-left: 2px;padding-right: 2px;padding-top: 2px;padding-bottom: 2px;">Outcome</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1" style="font-weight: bold;text-align: center;">Notes</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">Power: Voltage. Record the voltage of the power supply system.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column2-Body1">The supply voltage must not vary more than ±5% from the rating on the Data Plate.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">Power: Record the amperage of the power supply system.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column2-Body1">The supplied amperage equals or is greater than the amperage on the unit data plate.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1" MadCap:conditions="PwrFeed.PwrFd-Hardwire">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">Power: Verify the <MadCap:variable name="SL_Units.SL_Product" /> has been hardwired (permanent connect wiring) to a wall power source.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column2-Body1">Visually verify the <MadCap:variable name="SL_Units.SL_Product" /> is connected to the wall power source.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1" MadCap:conditions="PwrFeed.PwrFd-Hardwire">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">Power:&#160;Is the wall power source circuit-breaker sufficient to safeguard the <MadCap:variable name="SL_Units.SL_Product" />, yes or no?</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column2-Body1">See the Power Source Requirements entry in the Installation chapter of the user manual for the required circuit-breaker amperage.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1" MadCap:conditions="Gas_Vac_Liquids.Compressed Air">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">Air Supply:&#160;Is a compressed air supply on hand sufficient to operate the vacuum system valves?</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column2-Body1">The air supply can deliver 70 – 80 psi at the <MadCap:variable name="SL_Units.SL_Product" /> air fitting for as long as the <MadCap:variable name="SL_Units.SL_Product" /> is on and operating.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1" MadCap:conditions="Gas_Vac_Liquids.CO2">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">Gas Plumbing: The cylinder or building CO<sub>2</sub> regulator meets requirements, yes or no?</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column2-Body1">A dual-stage CO<sub>2</sub> regulator is installed and meets the requirements specified in the Installation chapter of the user manual.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1" MadCap:conditions="Gas_Vac_Liquids.CO2">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">Gas Plumbing: The CO<sub>2</sub> supply is correctly plumbed to the unit, yes or no?</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column2-Body1">Gas tubing is securely connected to the supply system regulator and the unit CO<sub>2</sub> inlet port.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1" MadCap:conditions="Gas_Vac_Liquids.N2">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">Gas Plumbing: N<sub>2</sub>, yes, no, or N/A.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column2-Body1">A dual-stage nitrogen regulator is installed and meets the requirements specified in the Installation chapter of the user manual.</td>
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1" MadCap:conditions="Gas_Vac_Liquids.N2">
+                    <td class="TableStyle-BodyLeft-BodyB-Column1-Body1">Gas Plumbing: An N<sub>2</sub> supply is correctly plumbed to the unit, yes, no, or N/A?</td>
+                    <td class="TableStyle-BodyLeft-BodyB-Column2-Body1">Gas tubing is securely connected to the supply system regulator and the unit inlet port.</td>
+                    <td class="TableStyle-BodyLeft-BodyB-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-BodyLeft-BodyA-Column2-Body1">&#160;</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+        <MadCap:snippetBlock src="../../Snippets/Init_Date.flsnp" />
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <h5>Acceptance Criteria and Results</h5>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../Stylesheets/Tables/BodyLeft.css');" class="TableStyle-BodyLeft" cellspacing="0">
+            <col class="TableStyle-BodyLeft-Column-Column1" style="width: 443px;" />
+            <col class="TableStyle-BodyLeft-Column-Column2" style="width: 179px;" />
+            <thead>
+                <tr class="TableStyle-BodyLeft-Head-Header1">
+                    <th class="TableStyle-BodyLeft-HeadE-Column1-Header1" style="border-right-style: none;border-right-width: 0px;border-right-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-left: 2px;padding-right: 2px;padding-top: 2px;padding-bottom: 2px;">Acceptance Criteria</th>
+                    <th class="TableStyle-BodyLeft-HeadD-Column2-Header1">Result</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-BodyLeft-Body-Body1">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">Power: The power supply meets the manufacturer voltage, <MadCap:conditionalText MadCap:conditions="PwrFeed.PwrFd-Hardwire">circuit breaker, </MadCap:conditionalText>and amperage specifications.</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1" MadCap:conditions="Gas_Vac_Liquids.Compressed Air">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">Air Supply: The compressed air supply delivers sufficient pressure to actuate the vacuum system valves while the <MadCap:variable name="SL_Units.SL_Product" /> is in operation.</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1" MadCap:conditions="Gas_Vac_Liquids.N2">
+                    <td class="TableStyle-BodyLeft-BodyE-Column1-Body1">Gas Plumbing: The supplemental N<sub>2</sub> gas supply has a proper regulator and is securely plumbed to the unit, capable of delivering a steady gas flow of 50 psi.</td>
+                    <td class="TableStyle-BodyLeft-BodyD-Column2-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-BodyLeft-Body-Body1" MadCap:conditions="Gas_Vac_Liquids.CO2">
+                    <td class="TableStyle-BodyLeft-BodyB-Column1-Body1">Gas Plumbing: the CO<sub>2</sub> supply has a proper regulator and is securely plumbed to the unit, capable of delivering a steady gas flow of 15 – 20 psi.</td>
+                    <td class="TableStyle-BodyLeft-BodyA-Column2-Body1">&#160;</td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:snippetBlock src="../../Snippets/Pass_PWC_F.flsnp" />
+        <p>&#160;</p>
+        <MadCap:snippetBlock src="../../Snippets/Init_Date.flsnp" />
+        <MadCap:pageBreak />
+    </body>
+</html>

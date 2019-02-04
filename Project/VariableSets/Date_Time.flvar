@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2019-01-25T15:04:24.4568468-08:00"
+    EvaluatedDefinition="MMMM dd, yyyy">MMMM dd, yyyy</Variable>
+</CatapultVariableSet>

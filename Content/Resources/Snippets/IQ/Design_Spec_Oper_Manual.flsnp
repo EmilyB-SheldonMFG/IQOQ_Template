@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>Three types of documents must be reviewed.</p>
+        <p><b>Required Performance Specifications:</b> Review and note the storage location of a document listing the client’s required performance specifications such as a Specified Requirements or Tender document. Compare these specifications against those stated in the Installation and Operation user manual.</p>
+        <ul>
+            <li>This verifies the unit is suitable for the applications or processes it will be used for in its new workspace location.</li>
+        </ul>
+        <p><b>Model Type Verification:</b> Note the location of a document listing the model number of the unit ordered. Typically, an Equipment Quotation or Purchase Order. The model name of the installed unit must correspond to the model quoted, purchased, and delivered.</p>
+        <ul>
+            <li>This verifies the correct unit type is on site and being validated with this IQ OQ.</li>
+        </ul>
+        <p><b>User Manual:</b> A copy of the Installation and Operation manual must be available for use during the IQ OQ and for operator training and reference.</p>
+        <p>The above documents are to be logged in the Document Table below. Whenever possible copies of the documents will be appended to the <b>Supplemental Information Section (SIS)</b> of this protocol document. See page <MadCap:xref href="../../Topics/SIS.htm#SIS">1</MadCap:xref>.</p>
+    </body>
+</html>

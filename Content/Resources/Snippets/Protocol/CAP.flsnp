@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p><b>Corrective Action Plans (CAP): </b>Applies to all PwC – Significant and Fail Results</p>
+        <ul>
+            <li>Each <i>PwC-S</i> and <i>Fail</i> result requires a corrective action plan (CAP) to document the development, implementation, and testing of the remedy.</li>
+            <li>The CAP must be routed to stakeholders for approval, correction, implementation, and verification testing.</li>
+            <li>After the CAP is enacted, the Failed or PwC-S test must be repeated, and the unit must meet the specification.</li>
+            <li>A print copy of each CAP must be appended to this IQ OQ and noted on the <b>Deviation Detail Form</b> (page <MadCap:xref href="../../Topics/Dev_Detail.htm#Dev_Detail">1</MadCap:xref>).</li>
+            <li>For the unit to pass the IQ OQ, the Final Reviewer must approve the CAP as having eliminated the deviation or nonconformity. Approval is indicated by the Reviewer initialing and dating the final page of the CAP appended to this IQ OQ.</li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags">
+  <ConditionTag
+    Comment=""
+    Name="O2"
+    BackgroundColor="#ffa500" />
+  <ConditionTag
+    Comment=""
+    Name="N2"
+    BackgroundColor="#008000" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="GN2"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="CO2"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="AMG"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Compressed Air"
+    Comment=""
+    OriginalName="Compressed Air" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Vacuum"
+    Comment="" />
+</CatapultConditionTagSet>

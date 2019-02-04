@@ -1,0 +1,423 @@
+﻿/*<meta />*/
+
+body
+{
+	font-family: 'Proxima Nova';
+	font-size: 10pt;
+	mc-hyphenate: never;
+}
+
+/* Header Formats */
+
+h1
+{
+	text-transform: uppercase;
+	text-indent: 40pt;
+	font-size: 22pt;
+	page-break-before: always;
+	font-family: 'Proxima Nova Semibold';
+	color: #FFFFFF;
+	line-height: 14pt;
+}
+
+h2
+{
+	font: 'Proxima Nova Semibold';
+	font-size: 16pt;
+	font-style: italic;
+	font-variant: small-caps;
+	margin-top: 12pt;
+	margin-bottom: 3pt;
+	page-break-after: avoid;
+}
+
+h3
+{
+	font: 'Proxima Nova Semibold';
+	font-size: 14pt;
+	mc-heading-level: 0;
+}
+
+h4
+{
+	font-weight: bold;
+	font-size: 12pt;
+	mc-heading-level: 0;
+}
+
+h5
+{
+	font-weight: bold;
+	font-size: 10pt;
+	margin-bottom: 9pt;
+	mc-heading-level: 0;
+}
+
+h5.Checkmark
+{
+	padding-left: .44in;
+}
+
+h5.right
+{
+	text-align: right;
+}
+
+h5.centered
+{
+	text-align: center;
+}
+
+h6
+{
+	font-weight: bold;
+	font-size: 8.0pt;
+	mc-heading-level: 0;
+}
+
+/* Wrappers */
+
+div.NoPageBreak
+{
+	page-break-inside: avoid;
+	font-size: 10.0pt;
+	margin-top: 0pt;
+	margin-bottom: 10pt;
+	margin-right: 27pt;
+}
+
+/* Paragraph Formats */
+
+p
+{
+	font-size: 10.0pt;
+	font-family: 'Proxima Nova';
+	font-size: 10.0pt;
+	margin-top: 0pt;
+	margin-bottom: 10pt;
+	margin-right: 27pt;
+	orphans: 2;
+	widows: 2;
+}
+
+p.centered
+{
+	font-size: 10.0pt;
+	text-align: center;
+	margin-top: 0pt;
+	margin-bottom: 10pt;
+	margin-right: 27pt;
+}
+
+p.right
+{
+	text-align: right;
+}
+
+p.no_space
+{
+	font-size: 10.0pt;
+	margin-top: 0pt;
+	margin-bottom: 3pt;
+	margin-right: 27pt;
+}
+
+p.Ital
+{
+	font-style: italic;
+}
+
+p.No_Space
+{
+	padding: 1pt;
+	margin: 0pt;
+}
+
+p.Note
+{
+	margin-top: 2pt;
+	margin-right: 27pt;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+	margin-bottom: 6pt;
+	text-align: justify;
+	mc-auto-number-format: '{b}Note: {/b}';
+}
+
+p.Warning
+{
+	margin-top: 2pt;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
+	border-top-style: solid;
+	border-top-width: .5pt;
+	border-top-color: black;
+	margin-bottom: 2pt;
+	text-align: justify;
+	mc-auto-number-format: '{b}Warning: {/b}';
+}
+
+p.Warning_French
+{
+	margin-top: 2pt;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
+	border-bottom-style: solid;
+	border-bottom-width: .5pt;
+	border-bottom-color: black;
+	margin-bottom: 6pt;
+	text-align: justify;
+	mc-auto-number-format: '{b}Avertissement: {/b}';
+}
+
+/* Heading Bar Format */
+
+p.Header2SL
+{
+	font-weight: bold;
+	text-transform: uppercase;
+	text-indent: ;
+	font-size: 22pt;
+	margin-bottom: 12pt;
+	margin-left: 0pt;
+	margin-right: 0pt;
+	color: #FFFFFF;
+	border-bottom-style: none;
+	border-bottom-width: 0pt;
+	border-bottom-color: black;
+	background-color: #A7A6A6;
+	text-align: Left;
+	font-family: 'Proxima Nova Semibold';
+}
+
+/* Cover Formats */
+
+p.Title_Family
+{
+	font-size: 22pt;
+	font-weight: bold;
+	margin-bottom: 15pt;
+	color: #808080;
+}
+
+p.Title_Signatures
+{
+	font-weight: bold;
+	margin-bottom: 10pt;
+	color: #000000;
+	font-size: 22pt;
+	text-decoration: underline;
+	text-align: center;
+}
+
+p.Title_Doc_Type
+{
+	font-size: 20pt;
+	text-align: center;
+}
+
+p.Title_Unit
+{
+	font-size: 14pt;
+	font: 'Proxima Nova Semibold';
+	color: #808080;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 15pt;
+}
+
+p.Title_Doc_Number
+{
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+p.Back_Page
+{
+	font-size: 12pt;
+	font: 'Proxima Nova Semibold';
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	text-align: right;
+	padding: 0pt;
+}
+
+/* Emphasis Formats */
+
+p.Emphasis_16
+{
+	font: 'Proxima Nova';
+	font-weight: bold;
+	font-size: 16.0pt;
+}
+
+p.Emphasis_14
+{
+	font: 'Proxima Nova';
+	font-weight: bold;
+	font-size: 14.0pt;
+}
+
+p.Emphasis_12
+{
+	font: 'Proxima Nova';
+	font-weight: bold;
+	font-size: 12.0pt;
+}
+
+p.Emphasis_10
+{
+	font: 'Proxima Nova';
+	font-weight: bold;
+	font-size: 10.0pt;
+}
+
+/* List Formats */
+
+li
+{
+	margin-bottom: 10pt;
+	margin-top: 0pt;
+	font-size: 10pt;
+}
+
+ul
+{
+	padding-left: 2pt;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+}
+
+ul.circle
+{
+	margin-top: 0pt;
+	margin-bottom: 2pt;
+	padding-left: 30pt;
+	list-style-type: circle;
+}
+
+ul.Secondary
+{
+	padding-left: 1.13in;
+	padding-top: 0pt;
+	padding-bottom: 10pt;
+	list-style-type: circle;
+}
+
+ul.centered
+{
+	padding-left: 1.13in;
+	padding-top: 0pt;
+	padding-bottom: 10pt;
+}
+
+ol.bold
+{
+	font-weight: bold;
+}
+
+ol
+{
+	font-family: 'Proxima Nova';
+	padding: 2pt;
+}
+
+/* Lists - Checklist - Print */
+
+ul.Install_Checklist
+{
+	list-style-image: none;
+	padding-left: 0.63in;
+}
+
+li.Install_Checklist
+{
+	padding-top: 8pt;
+	padding-bottom: 8pt;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+}
+
+ul.Install_Checklist > li::marker
+{
+	font-family: Wingdings;
+	content: 'ü';
+	font-weight: bold;
+}
+
+ul.Install_Checklist > li > ul
+{
+	list-style-type: disc;
+	list-style-image: none;
+	padding-top: 8pt;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+}
+
+ul.Install_Checklist > li > ul > li::marker
+{
+	font-family: ;
+	content: '•';
+}
+
+/* Table Text Formats */
+
+th
+{
+	hyphens: none;
+	font-size: 10.0pt;
+	font-weight: bold;
+}
+
+td
+{
+	hyphens: none;
+	font-size: 10.0pt;
+	font-weight: normal;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+td.bold
+{
+	hyphens: none;
+	font-size: 10.0pt;
+	font-weight: bold;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+/* Table of Contents */
+
+p.TOC1
+{
+	font-weight: bold;
+	margin-top: 3pt;
+	margin-bottom: 3pt;
+}
+
+p.TOC2
+{
+	font-style: italic;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-weight: lighter;
+}
+
+MadCap|xref.ListOfPageNumber
+{
+	mc-format: '{quote}{paratext}{quote} {pageref}';
+}
+
+MadCap|xref
+{
+	mc-format: '{page}';
+}

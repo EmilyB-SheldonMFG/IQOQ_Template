@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h5>Study Description</h5>
+        <p>The temperature distribution study verifies and documents that the unit meets or exceeds the manufacturer temperature uniformity (distribution) specifications when installed in the client’s workspace location. The incubation chamber temperature is recorded using a calibrated reference device (the data logger) to obtain temperature trending data while the unit is operating in a standard usage mode. The data logger must be programmed to record data <b>once per minute</b> and must gather <b>a minimum of 2 consecutive hours of worth of logged temperature data.</b></p>
+        <p>If more than 2 hours of data are gathered, the testing party may choose which two-hour consecutive period is used for the study results.</p>
+        <p>Prior to the study, the data logger thermocouple probes are placed in the incubation chamber as detailed in the <b>Temperature Probe Set Up entry</b> on page  to capture air temperature data across the shelf space. One probe is left outside the unit to log the ambient temperature during the study period.</p>
+    </body>
+</html>

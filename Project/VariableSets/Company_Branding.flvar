@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Brand"
+    EvaluatedDefinition="Cascade TEK">Cascade TEK</Variable>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="Sheldon Manufacturing">Sheldon Manufacturing</Variable>
+  <Variable
+    Name="Brand"
+    Comment=""
+    EvaluatedDefinition="LAB ARMOR">LAB ARMOR</Variable>
+  <Variable
+    Name="Brand"
+    Comment=""
+    EvaluatedDefinition="SHEL LAB">SHEL LAB</Variable>
+</CatapultVariableSet>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ul>
+            <li>Each individual who performs testing using this IQ OQ protocol package is required to sign and initial the <b>Signature Log</b> on page <MadCap:xref href="../../Topics/Sign_Log.htm#Sign_Log">1</MadCap:xref>.</li>
+            <li>All tests and inspections must be performed unless noted as optional in the protocol.</li>
+            <li>All external documentation referenced in the protocol must either be held in a secure storage location and noted as such or be physically included as appendices of this IQ OQ document.</li>
+            <li>If the individual executing the protocol deems that tests can be run out of sequence without affecting the results, the tests can be performed in an alternate order. This must be recorded in the Additional Remarks and Observations form at the end of the section or subsection.</li>
+            <li>After completion of the IQ OQ protocols, the <b>Declaration of Completion</b> at the back of this protocol document must be filled out and then signed by the <b>Final Reviewer</b>.</li>
+        </ul>
+    </body>
+</html>

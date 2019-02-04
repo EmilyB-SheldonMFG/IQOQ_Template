@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h5>System Overview</h5>
+        <p>The <MadCap:variable name="IQOQ.Company Name" />&#160;<MadCap:variable name="IQOQ.Unit Name" />&#160;<MadCap:variable name="IQOQ.Unit Type" /> defined in this protocol is intended to be tested after it has been installed in accordance with Sheldon Manufacturing, Inc. installation requirements and/or guidelines. The <MadCap:variable name="IQOQ.Unit Name" /> is designed to provide a total of 31 cubic feet (879 liters) of interior space. The <MadCap:variable name="IQOQ.Unit Name" /> utilizes microprocessor controls to maintain temperature and CO2 gas levels. The unit is meant to support tissue growth in sealed containers without additional humidification. The <MadCap:variable name="IQOQ.Unit Name" /> is designed to maintain a specified chamber temperature across a range of 8°C above ambient to +60°C with a uniformity (temperature distribution) of ±0.5°C @ 37°C.</p>
+    </body>
+</html>

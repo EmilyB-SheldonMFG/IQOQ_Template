@@ -1,0 +1,1631 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: DataExample;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	max-id: 5;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Column1;
+	id: 0;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	cell-padding-left: 2px;
+	cell-padding-right: 2px;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+}
+
+mcTableColumnStyle
+{
+	span: 17;
+	id: 4;
+	name: Column2;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	cell-padding-left: 2px;
+	cell-padding-right: 2px;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	ruler-style: solid;
+	ruler-width: 1px;
+	ruler-color: #000000;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Header1;
+	id: 2;
+	text-align: center;
+	vertical-align: bottom;
+	font-weight: bold;
+	cell-padding-left: 2px;
+	cell-padding-right: 2px;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	font-size: 9pt;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Body1;
+	id: 1;
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+mcTableBodyStyle
+{
+	span: 8;
+	id: 5;
+	name: Body2;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	text-align: center;
+	vertical-align: middle;
+	cell-padding-left: 2px;
+	cell-padding-right: 2px;
+	cell-padding-top: 2px;
+	cell-padding-bottom: 2px;
+	ruler-style: solid;
+	ruler-width: 1px;
+	ruler-color: #000000;
+	font-size: 8px;
+}
+
+mcTableFootStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Footer1;
+	id: 3;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-DataExample
+{
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-color: #000000;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-color: #000000;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-color: #000000;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	border-bottom-width: 1px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-DataExample-Column-Column1
+{
+	
+}
+
+.TableStyle-DataExample-Column-Column2
+{
+	
+}
+
+.TableStyle-DataExample-Head-Header1
+{
+	
+}
+
+.TableStyle-DataExample-HeadI-Column1-Header1
+{
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadI-Column1-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadE-Column1-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-DataExample-HeadE-Column1-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadF-Column1-Header1
+{
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-DataExample-HeadF-Column1-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadH-Column1-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadH-Column1-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadD-Column1-Header1
+{
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-DataExample-HeadD-Column1-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadC-Column1-Header1
+{
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadC-Column1-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadB-Column1-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadB-Column1-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadA-Column1-Header1
+{
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadA-Column1-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadG-Column1-Header1
+{
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadG-Column1-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadI-Column2-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadI-Column2-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadE-Column2-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-DataExample-HeadE-Column2-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadF-Column2-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-DataExample-HeadF-Column2-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadH-Column2-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadH-Column2-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadD-Column2-Header1
+{
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-DataExample-HeadD-Column2-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadC-Column2-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadC-Column2-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadB-Column2-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadB-Column2-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadA-Column2-Header1
+{
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadA-Column2-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-HeadG-Column2-Header1
+{
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: bottom;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-HeadG-Column2-Header1 p
+{
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-Foot-Footer1
+{
+	
+}
+
+.TableStyle-DataExample-FootI-Column1-Footer1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-FootI-Column1-Footer1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-FootE-Column1-Footer1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+}
+
+.TableStyle-DataExample-FootE-Column1-Footer1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-FootF-Column1-Footer1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+}
+
+.TableStyle-DataExample-FootF-Column1-Footer1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-FootH-Column1-Footer1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-FootH-Column1-Footer1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-FootD-Column1-Footer1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+}
+
+.TableStyle-DataExample-FootD-Column1-Footer1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-FootC-Column1-Footer1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-FootC-Column1-Footer1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-FootB-Column1-Footer1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-FootB-Column1-Footer1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-FootA-Column1-Footer1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-FootA-Column1-Footer1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-FootG-Column1-Footer1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-FootG-Column1-Footer1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-FootI-Column2-Footer1
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-FootI-Column2-Footer1 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-FootE-Column2-Footer1
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+}
+
+.TableStyle-DataExample-FootE-Column2-Footer1 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-FootF-Column2-Footer1
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+}
+
+.TableStyle-DataExample-FootF-Column2-Footer1 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-FootH-Column2-Footer1
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-FootH-Column2-Footer1 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-FootD-Column2-Footer1
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+}
+
+.TableStyle-DataExample-FootD-Column2-Footer1 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-FootC-Column2-Footer1
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-FootC-Column2-Footer1 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-FootB-Column2-Footer1
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-FootB-Column2-Footer1 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-FootA-Column2-Footer1
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-FootA-Column2-Footer1 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-FootG-Column2-Footer1
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-FootG-Column2-Footer1 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-Body-Body1
+{
+	
+}
+
+.TableStyle-DataExample-BodyI-Column1-Body1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyI-Column1-Body1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyE-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyE-Column1-Body1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyF-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyF-Column1-Body1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyH-Column1-Body1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyH-Column1-Body1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyD-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyD-Column1-Body1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyC-Column1-Body1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyC-Column1-Body1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyB-Column1-Body1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyB-Column1-Body1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyA-Column1-Body1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyA-Column1-Body1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyG-Column1-Body1
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyG-Column1-Body1 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyI-Column2-Body1
+{
+	font-weight: bold;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyI-Column2-Body1 p
+{
+	font-weight: bold;
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyE-Column2-Body1
+{
+	font-weight: bold;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyE-Column2-Body1 p
+{
+	font-weight: bold;
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyF-Column2-Body1
+{
+	font-weight: bold;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyF-Column2-Body1 p
+{
+	font-weight: bold;
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyH-Column2-Body1
+{
+	font-weight: bold;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyH-Column2-Body1 p
+{
+	font-weight: bold;
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyD-Column2-Body1
+{
+	font-weight: bold;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyD-Column2-Body1 p
+{
+	font-weight: bold;
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyC-Column2-Body1
+{
+	font-weight: bold;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyC-Column2-Body1 p
+{
+	font-weight: bold;
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyB-Column2-Body1
+{
+	font-weight: bold;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyB-Column2-Body1 p
+{
+	font-weight: bold;
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyA-Column2-Body1
+{
+	font-weight: bold;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyA-Column2-Body1 p
+{
+	font-weight: bold;
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyG-Column2-Body1
+{
+	font-weight: bold;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyG-Column2-Body1 p
+{
+	font-weight: bold;
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-Body-Body2
+{
+	
+}
+
+.TableStyle-DataExample-BodyI-Column1-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyI-Column1-Body2 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyE-Column1-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyE-Column1-Body2 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyF-Column1-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyF-Column1-Body2 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyH-Column1-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyH-Column1-Body2 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyD-Column1-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyD-Column1-Body2 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyC-Column1-Body2
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyC-Column1-Body2 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyB-Column1-Body2
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyB-Column1-Body2 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyA-Column1-Body2
+{
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyA-Column1-Body2 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyG-Column1-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyG-Column1-Body2 p
+{
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+.TableStyle-DataExample-BodyI-Column2-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyI-Column2-Body2 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyE-Column2-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyE-Column2-Body2 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyF-Column2-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyF-Column2-Body2 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyH-Column2-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyH-Column2-Body2 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyD-Column2-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyD-Column2-Body2 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyC-Column2-Body2
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyC-Column2-Body2 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyB-Column2-Body2
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-DataExample-BodyB-Column2-Body2 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyA-Column2-Body2
+{
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyA-Column2-Body2 p
+{
+	font-size: 7pt;
+}
+
+.TableStyle-DataExample-BodyG-Column2-Body2
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-size: 7pt;
+	text-align: center;
+	vertical-align: middle;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.TableStyle-DataExample-BodyG-Column2-Body2 p
+{
+	font-size: 7pt;
+}
+
+

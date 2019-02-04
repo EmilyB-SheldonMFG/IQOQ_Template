@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h5>Tools and Equipment</h5>
+        <ul>
+            <li>Volt meter. The meter must be in calibration.</li>
+            <li>Liquid level</li>
+            <li>Temperature data logging equipment capable of capturing data from at least 10 thermocouple probes. For example, an Omega RDXL-SD with 12 channels or a LUTRON BTM-4208SD.</li>
+            <ul class="circle">
+                <li>The data logger is a critical test instrument and must be in calibration to NIST standards.</li>
+                <li>If purchasing a data logger, choose one that can be locally serviced and calibrated.</li>
+            </ul>
+            <li>10 type “T” thermocouple probes to connect to the data logger.</li>
+            <ul class="circle">
+                <li>The thermocouples must be the same style and length and should be from the same vendor.</li>
+            </ul>
+            <li>A relative humidity (RH%) meter for measuring ambient humidity. This meter must be in calibration.</li>
+            <li>Non-marking tape. For example, painters tape.</li>
+            <ul class="circle">
+                <li>To secure (hold in place) the thermocouple probes.</li>
+            </ul>
+            <li>Miscellaneous tools as required.</li>
+        </ul>
+    </body>
+</html>

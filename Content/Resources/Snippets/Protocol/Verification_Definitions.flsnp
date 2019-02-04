@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>The IQ OQ protocols validate the unit against required specifications using the following verification methods:</p>
+        <ul>
+            <li><b>Test</b> – A physical test is performed on the unit to verify it meets the stated specification. The finding of the test is recorded in the Outcomes block of the test form and recorded as acceptable or not in the Result block.</li>
+            <li><b>Inspection</b> – The unit is inspected to verify it matches the details of the supplied specifications. All visual inspection results are recorded in the Outcome block of the test and recorded as acceptable or not in the Result block.</li>
+            <li><b>Certification</b> – If the unit specification being tested has a signed and dated testing certificate from the manufacturer stating that the unit meets or exceeds that specification, the certification may be used to satisfy the test. The certification will be noted in the “Additional Data, Remarks, and Observations” and a copy of the certification will be included in the <b>Supplemental Information Section (SIS)</b> at the end of this protocol. See page <MadCap:xref href="../../Topics/SIS.htm#SIS">1</MadCap:xref>.</li>
+        </ul>
+    </body>
+</html>

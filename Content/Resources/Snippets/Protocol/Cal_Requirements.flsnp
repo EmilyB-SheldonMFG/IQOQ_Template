@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h5>Calibration Requirements</h5>
+        <p>All critical process instruments and test instrumentation must be calibrated to NIST traceable standards and be in current calibration when IQ OQ testing is performed. The calibration certificate(s) for all critical test equipment must be attached to the IQ OQ and noted in the Supplemental Information section. The instrument and its calibration information must be recorded in the <b>Equipment Log table</b>, see page <MadCap:xref href="../../Topics/Equip.htm#Equip_Log">1</MadCap:xref>.</p>
+        <h5>Reference: ASTM Standard E 1292-94.</h5>
+    </body>
+</html>

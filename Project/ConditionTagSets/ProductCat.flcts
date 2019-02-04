@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags">
+  <ConditionTag
+    Comment=""
+    Name="OvenCryo"
+    BackgroundColor="#ff00ff" />
+  <ConditionTag
+    Comment=""
+    Name="Bead_Bath"
+    BackgroundColor="#00bfff" />
+  <ConditionTag
+    BackgroundColor="#7fff00"
+    Name="Water_Bath"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Oven_wTopVent"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#228b22"
+    Name="Incubator"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="IncubatorCO2"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="IncubatorPeltier"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Oven"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#a52a2a"
+    Name="Oven_Vac"
+    Comment="" />
+</CatapultConditionTagSet>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h5>Perform the Installation Qualification (IQ)</h5>
+        <p>IQ inspections and tests satisfy the following requirements:</p>
+        <ul>
+            <li>Verifies that the documentation and standard operating procedures required for safe operation of the unit are on hand.</li>
+            <li>Confirms that the serial number of the specific unit being tested matches the serial number on the cover of this IQ OQ.</li>
+            <li>Verifies the workspace environment the unit is installed in meets the required ambient operating conditions and corrects any discovered deviations.</li>
+            <li>Verifies the unit has been correctly installed.</li>
+            <li>Ensures the unit is provided with the required utility supply sources (e.g. correct power voltage and amperage, any required gases or external vacuum source, etc.).</li>
+        </ul>
+    </body>
+</html>

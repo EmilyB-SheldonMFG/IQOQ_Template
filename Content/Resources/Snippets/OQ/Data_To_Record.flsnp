@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h5>Data to be Recorded During the Test</h5>
+        <ul>
+            <li>Record the ambient temperature and the relative humidity with the saved temperature data.</li>
+            <li>State the expected conditions of the requested test and / or the specific test requirements in the saved temperature data document.</li>
+            <li>The logged temperature data must be recorded, with readings taken once per minute.</li>
+            <li>The unit identification and for whom the test is conducted must be recorded and saved with the temperature data.</li>
+        </ul>
+        <p>The logged data must be appended to this protocol document as a hardcopy printout.</p>
+    </body>
+</html>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="City_State"
+    EvaluatedDefinition="Cornelius, OR 97113">Cornelius, OR 97113</Variable>
+  <Variable
+    Comment=""
+    Name="Country"
+    EvaluatedDefinition="USA">USA</Variable>
+  <Variable
+    Name="PO Box"
+    Comment=""
+    EvaluatedDefinition="P.O. Box 627">P.O. Box 627</Variable>
+  <Variable
+    Name="PO Box"
+    Comment=""
+    EvaluatedDefinition="P.O. Box 625 Bldg B">P.O. Box 625 Bldg B</Variable>
+</CatapultVariableSet>

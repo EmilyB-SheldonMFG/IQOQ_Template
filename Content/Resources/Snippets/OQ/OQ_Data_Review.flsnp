@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h4>5. Data Review Procedure</h4>
+        <p><b>Documentation:</b> Most data logging systems export collected data as a spreadsheet. Using an exported spreadsheet as the study <b>test report</b> is an acceptable practice. Include a print copy of the exported test report or raw study data with this protocol document. Record the following on the test report:</p>
+        <p>Record the following on the Test Report:</p>
+        <ol>
+            <li>Results: Maximum recorded chamber temperature, minimum recorded chamber temperature, chamber uniformity, maximum ambient temperature, minimum ambient temperature, humidity.<ul class="circle"><li><b>Optional:</b> If you have gathered more than 2 hours of temperature data you may select a continuous range of 2 hours within that dataset to review.</li></ul></li>
+            <li>The test equipment used. Include calibration data on the test equipment.</li>
+            <li>The type of thermocouple probes used.</li>
+            <li>Unit identification: Model, serial number etc.</li>
+            <li>The name(s) of the testing party.</li>
+            <li>Date of the test.</li>
+        </ol>
+        <p>Initial and date the test reports. Attach both reports to this IQ OQ protocol.</p>
+    </body>
+</html>

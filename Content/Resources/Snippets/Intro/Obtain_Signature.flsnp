@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h5>Obtain an Authorized Signature for the Completion Declaration</h5>
+        <ul>
+            <li>The declaration of completion at the back if this IQ OQ must be filled out and signed by the <b>Final Reviewer</b>. <MadCap:conditionalText MadCap:conditions="Company_Branding.SHEL LAB">The Reviewer must be an authorized member of the <MadCap:variable name="Company_Branding.CompanyName" /> INC. staff, an authorized distributor, or an approved contractor who is knowledgeable about the unit being tested with this IQ OQ.</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="Company_Branding.Cascade TEK">The Reviewer is an individual knowledgeable about the type of equipment being tested who is designated by the institution, agency, or company that purchased the unit.</MadCap:conditionalText></li>
+        </ul>
+    </body>
+</html>

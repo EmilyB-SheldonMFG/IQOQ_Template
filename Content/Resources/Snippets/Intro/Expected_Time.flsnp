@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../Stylesheets/SHELLAB.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p><b>Two (2) days.</b> The IQ and the control and display verifications of the OQ should be performed during the first day. The unit should then operate overnight undisturbed in the standard usage configuration specified in the OQ section. This allows the unit temperature to soak and stabilize before performing the Temperature Distribution study while also leaving time for the inspecting party to correct any deviations.</p>
+        <p>Serious issues interfering with unit functionality (nonconformities) may require remedies necessitating more than two days to design, implement, and test. Nonconformities include issues such as damage to the unit being tested and ambient factors requiring significant changes to the workspace environment the unit is installed in.</p>
+    </body>
+</html>
