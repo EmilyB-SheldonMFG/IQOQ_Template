@@ -4,19 +4,26 @@
         <h5>Temperature Study Probe Set Up (Continued)</h5>
         <p>&#160;</p>
         <ol start="3">
-            <li>Once the chamber probes have been secured, use the access port stopper or port cap, non-marking tape, and any available insulation if needed to plug the access port the probes wires are running through. This prevents heat loss through the port.</li>
+            <li MadCap:conditions="Accessory Components.Access_Port">Once the chamber probes have been secured, use the access port stopper or port cap, non-marking tape, and any available insulation if needed to plug the access port the probes wires are running through. This prevents heat loss through the port.</li>
+            <p>&#160;</p>
+            <li MadCap:conditions="ProductCat.Oven_wTopVent">Carefully close the sliding dampener on the access port as far as possible.</li>
+            <ul MadCap:conditions="ProductCat.Oven_wTopVent">
+                <li>Heat resistant tape may be used to seal any gaps caused by the presence of the probe wires in the port.</li>
+            </ul>
             <p>&#160;</p>
             <li>Place the end of probe 10 (ambient) near the data logger but away from any source of heat or cold.</li>
             <ul>
                 <li>This probe will be used to monitor the environmental air temperature near the unit.</li>
                 <p>&#160;</p>
             </ul>
-            <li>Carefully close the chamber doors, making sure the doors latch and seal.</li>
+            <li>Carefully close the chamber door, making sure the door latches and seals.</li>
             <ul>
-                <li>Leave the doors closed and sealed throughout the duration of the OQ functionality verifications and the temperature study.</li>
+                <li>Leave the door closed and sealed throughout the duration of the OQ functionality verifications and the temperature study.</li>
             </ul>
         </ol>
         <p>&#160;</p>
-        <p>Leave the probes in the chamber until <b>after</b> the temperature distribution study and its data review for the chamber are complete.</p>
+        <p>Leave the probes in the chamber until <b>after</b> the temperature distribution study and its data review are complete.</p>
+        <p>&#160;</p>
+        <p style="text-align: center;">End of Temperature Study Setup Procedure</p>
     </body>
 </html>

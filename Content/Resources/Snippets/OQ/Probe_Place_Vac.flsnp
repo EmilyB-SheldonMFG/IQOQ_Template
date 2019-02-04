@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="ProductCat.Oven_Vac">
+    <head>
+    </head>
+    <body>
+        <p><b>Probe Placement</b>
+        </p>
+        <ol>
+            <li>Introduce the vacuum-rated thermocouple probes into the chamber through<span style="background-color: #ffff00;"> the access port on the back of the unit.</span></li>
+            <ol class="Secondary_Alpha">
+                <li>Leave probe 10 outside the oven.</li>
+            </ol>
+            <li>See Figure 4 for the locations of the 9 chamber probes.</li>
+            <li>Probe placement standards:</li>
+            <ol class="Secondary_Alpha">
+                <li>Uniformly 2 inches (51 mm) from each shelf side near the corner of the shelf.</li>
+                <li>Secure the probe heads directly to the shelving using non-stick, heat-resistant tape. </li>
+                <li>Make sure that probes 6 – 9 are secured to the bottom shelf and not the <MadCap:variable name="SL_Units.Chamber_Type" /> floor.</li>
+            </ol> </ol>
+    </body>
+</html>
