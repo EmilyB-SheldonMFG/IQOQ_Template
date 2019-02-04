@@ -35,5 +35,7 @@
   <Variables>
     <Variable
       Name="IQOQ/Unit Name">SCO2W</Variable>
+    <Variable
+      Name="Company_Branding/Brand">SHEL LAB</Variable>
   </Variables>
 </CatapultTarget>
