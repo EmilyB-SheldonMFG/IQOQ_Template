@@ -13,15 +13,13 @@
             <tbody>
                 <tr class="TableStyle-Init_Date-Body-Body1">
                     <td class="TableStyle-Init_Date-BodyB-Column1-Body1">
-                        <p><b>Initials:</b>
-                        </p>
+                        <p style="font-weight: bold;">Initials:</p>
                     </td>
                     <td class="TableStyle-Init_Date-BodyB-Column1-Body1" style="border-right-style: none;border-right-width: 1px;border-right-color: #000000;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-left: 2px;padding-right: 0px;padding-top: 2px;padding-bottom: 2px;">
                         <p>&#160;</p>
                     </td>
                     <td class="TableStyle-Init_Date-BodyB-Column1-Body1">
-                        <p><b>Date:</b>
-                        </p>
+                        <p style="font-weight: bold;">Date:</p>
                     </td>
                     <td class="TableStyle-Init_Date-BodyA-Column1-Body1" style="border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #000000;padding-left: 2px;padding-right: 0px;padding-top: 2px;padding-bottom: 2px;">
                         <p>&#160;</p>
