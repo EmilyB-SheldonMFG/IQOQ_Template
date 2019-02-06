@@ -8,12 +8,12 @@
         <ol>
             <li>Turn on the data logger.</li>
             <li>Record the ambient humidity and temperature at the start of the display accuracy verification.</li>
-            <li>Data logger finding: Monitor all 9 of the data logger chamber probe temperature readings and use the 9-point average of those readings after a minimum of 5 minutes run time. I.e. add the 9 probe temps together divide by 9 ( (p1+p2+…p9) /9).</li>
+            <li>Data logger finding: Monitor all 9 of the data logger <MadCap:variable name="SL_Units.Interior_Type" /> probe temperature readings and use the 9-point average of those readings after a minimum of 5 minutes run time. I.e. add the 9 probe temps together divide by 9 ( (p1+p2+…p9) /9).</li>
             <li>Verification: Compare the unit temperature display reading with the finding of the data logger.</li>
             <li>If the display reading and data logger findings are equal, the display accuracy is verified. Start the Uniformity Testing Procedure found on the next page.</li>
             <li>If the two are not equal, the testing party may perform a calibration. See the “Calibrating the Temperature Display” entry in the User Maintenance section of the Installation and Operation Manual for how to calibrate the temperature display.</li>
             <li>After a successful calibration, wait at least 1 hour for the temperature to stabilize before starting the Uniformity Testing Procedure on the next page.</li>
-            <li>Do not shut off, open the chamber door, or otherwise disturb the unit prior to beginning the Uniformity Testing Procedure. Leave the unit operating at 37°C.</li>
+            <li>Do not shut off, open the chamber door, or otherwise disturb the unit prior to beginning the Uniformity Testing Procedure. Leave the unit operating at <MadCap:conditionalText MadCap:conditions="ProductCat.Incubator,ProductCat.IncubatorCO2,ProductCat.IncubatorPeltier,ProductCat.Water_Bath,ProductCat.Bead_Bath">37°C</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="ProductCat.Oven,ProductCat.Oven_Vac,ProductCat.Oven_wTopVent">150°C</MadCap:conditionalText>.</li>
         </ol>
     </body>
 </html>

@@ -11,7 +11,7 @@
                 <li>Changes in ambient temperature may adversely affect test results. Test readings for uniformity should only be taken when the ambient temperature has been constant for a minimum of 2 hours.</li>
                 <li>The ambient temperature <b>cannot vary more than 2°C</b> during the test for the uniformity for measurements to be considered usable.</li>
             </ul>
-            <li>The <MadCap:variable name="SL_Units.SL_Product" />must be running at<MadCap:conditionalText MadCap:conditions="ProductCat.Incubator,ProductCat.IncubatorCO2,ProductCat.IncubatorPeltier,ProductCat.Water_Bath"> 37°C</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="ProductCat.Oven,ProductCat.Oven_Vac,ProductCat.Oven_wTopVent,ProductCat.OvenCryo"> 150°C</MadCap:conditionalText> and thermally stable at the start of the study. The incubator temperature is considered stable when both of the following conditions are true:</li>
+            <li>The <MadCap:variable name="SL_Units.SL_Product" /> must be running at<MadCap:conditionalText MadCap:conditions="ProductCat.Incubator,ProductCat.IncubatorCO2,ProductCat.IncubatorPeltier,ProductCat.Water_Bath"> 37°C</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="ProductCat.Oven,ProductCat.Oven_Vac,ProductCat.Oven_wTopVent,ProductCat.OvenCryo"> 150°C</MadCap:conditionalText> and thermally stable at the start of the study. The <MadCap:variable name="SL_Units.SL_Product" /> temperature is considered stable when both of the following conditions are true:</li>
             <ul class="circle">
                 <li>No temperature fluctuations greater than ±0.1°C have been seen on the unit temperature display for 1 hour.</li>
                 <li>The data logger has detected no temperature fluctuations greater than ±0.1°C for 1 hour.</li>
@@ -23,7 +23,7 @@
             </ul>
             <li>Temperature readings must be taken once per minute during the study.</li>
             <li>Line voltage may not vary more than a total of 5% during the test. Larger variations disqualify the test data for the period.</li>
-            <li>The <MadCap:variable name="SL_Units.SL_Product" /> must be empty during the testing, except for shelving and temperature distribution study equipment.</li>
+            <li>The <MadCap:variable name="SL_Units.Chamber_Type" /> must be empty during the testing, except for shelving and temperature distribution study equipment.</li>
         </ul>
     </body>
 </html>

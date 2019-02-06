@@ -6,13 +6,13 @@
     <body>
         <h4>4. Temperature Sampling Procedure</h4>
         <ol>
-            <li>Verify the incubator chamber temperature is stable at 37°C and the unit has run for at least 8 hours.</li>
+            <li MadCap:conditions="ProductCat.Incubator,ProductCat.IncubatorCO2,ProductCat.IncubatorPeltier">Verify the <MadCap:variable name="SL_Units.Chamber_Type" /> temperature is stable at 37°C and the unit has run for at least 8 hours.</li>
             <li>Start the data logger device if not already running.</li>
             <li>Log the uniformity and ambient temperature readings for <b>at least a 2-hour sample period.</b></li>
             <li>When readings are complete, stop logging and save the data.</li>
             <li><b>Review the data before the probes are removed;</b> the test may need to be repeated or samples taken again.</li>
             <li>Record the relative humidity with the saved data.</li>
-            <li>State the conditions of the requested test and/or the specific test requirements on the saved data. Include the unit serial number.</li>
+            <li>State the conditions of the requested test and / or the specific test requirements on the saved data. Include the unit serial number.</li>
         </ol>
     </body>
 </html>

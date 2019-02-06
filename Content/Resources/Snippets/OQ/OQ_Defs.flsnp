@@ -7,7 +7,7 @@
         <h5>Definitions</h5>
         <p>&#160;</p>
         <ul>
-            <li><b>Calibrated:</b> The average chamber temperature (as measured by the data logging equipment) matches the current incubator set point and the displayed chamber temperature to at least 0.1°C for each temperature required for the test request. Otherwise, the probe locations might be perceived as out of spec when actually in spec.</li>
+            <li><b>Calibrated:</b> The average <MadCap:variable name="SL_Units.Interior_Type" /> temperature (as measured by the data logging equipment) matches the current <MadCap:variable name="SL_Units.SL_Product" /> set point and the displayed <MadCap:variable name="SL_Units.Interior_Type" /> temperature to at least 0.1°C for each temperature required for the test request. Otherwise, the probe locations might be perceived as out of spec when actually in spec.</li>
             <p>&#160;</p>
             <li><b>Stability:</b> The temperature stability is the temporal temperature variation and is given by the amplitude of the temperature curve as a function of time. The average of all probes at a given point in time is then viewed across the testing period and compared to the set point value.</li>
             <p>&#160;</p>
