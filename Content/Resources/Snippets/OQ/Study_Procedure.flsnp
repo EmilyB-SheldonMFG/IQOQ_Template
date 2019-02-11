@@ -3,12 +3,12 @@
     <body>
         <h5>Study Procedures</h5>
         <ol>
-            <li>Read the Study Execution Parameters, page </li>
-            <li>Temperature Probe Set Up, page </li>
-            <li>Optional Temperature Display Verification, page </li>
-            <li>Temperature Sampling Procedure, page</li>
-            <li>Data Review, page</li>
-            <li>Fill out the Study Completion Log, page </li>
+            <li>Read the Study Execution Parameters, page <MadCap:xref href="../../Topics/OQ/Temp_Dist.htm#Study_Exe_Params">1</MadCap:xref></li>
+            <li>Temperature Probe Set Up, page <MadCap:xref href="../../Topics/OQ/Probe_Setup.htm#Probe_Placement">1</MadCap:xref></li>
+            <li>Optional Temperature Display Verification, page <MadCap:xref href="../../Topics/OQ/Temp_Dist.htm#Calibration">1</MadCap:xref></li>
+            <li>Temperature Sampling Procedure, page <MadCap:xref href="../../Topics/OQ/Temp_Dist.htm#Study_Pro">1</MadCap:xref></li>
+            <li>Data Review, page <MadCap:xref href="../../Topics/OQ/Temp_Dist.htm#Data_Pro">1</MadCap:xref></li>
+            <li>Fill out the Study Completion Log, page <MadCap:xref href="../../Topics/OQ/OQ_Complete.htm#OQ_Study_Complete">1</MadCap:xref></li>
         </ol>
     </body>
 </html>

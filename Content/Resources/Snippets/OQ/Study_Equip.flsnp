@@ -2,6 +2,6 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
         <h5>Required Equipment</h5>
-        <p>Refer to page  for a detailed explanation of the test equipment requirements.</p>
+        <p>Refer to page <MadCap:xref href="../../Topics/Proto_Reqs/Req_Tools.htm#Req_Equip">1</MadCap:xref> for a detailed explanation of the test equipment requirements.</p>
     </body>
 </html>
