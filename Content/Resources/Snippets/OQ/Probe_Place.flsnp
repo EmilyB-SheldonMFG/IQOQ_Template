@@ -3,7 +3,7 @@
     <body>
         <h5>Probe Placement</h5>
         <ol start="1">
-            <li>Introduce thermocouple probes 1 – 9 into the chamber through the chamber access port.  Leave probe 10 outside the incubator.</li>
+            <li>Introduce thermocouple probes 1 – 9 into the chamber through the chamber <MadCap:conditionalText MadCap:conditions="Accessory Components.Access_Port"> access port</MadCap:conditionalText>.  Leave probe 10 outside the <MadCap:variable name="SL_Units.SL_Product" />.</li>
             <li>Probe placement standards in a chamber:</li>
         </ol>
         <ul>
