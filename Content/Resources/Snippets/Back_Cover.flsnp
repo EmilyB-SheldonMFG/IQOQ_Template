@@ -5,7 +5,7 @@
         </p>
         <p class="No_Space"><MadCap:variable name="Address.City_State" />
         </p>
-        <p><MadCap:variable name="Address.Country" />
+        <p style="text-align: right;"><MadCap:variable name="Address.Country" />
         </p>
         <p class="No_Space"><MadCap:variable name="SLContactInfo.EmailTechSupp" />
         </p>
