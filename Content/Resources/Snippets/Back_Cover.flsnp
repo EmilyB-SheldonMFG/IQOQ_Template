@@ -1,23 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
-        <p class="No_Space"><MadCap:variable name="SL_Contact.PO Box" />
+        <p class="No_Space"><MadCap:variable name="Address.PO Box" />
         </p>
-        <p class="No_Space"><MadCap:variable name="SL_Contact.City_State" />
+        <p class="No_Space"><MadCap:variable name="Address.City_State" />
         </p>
-        <p class="No_Space"><MadCap:variable name="SL_Contact.Country" />
+        <p><MadCap:variable name="Address.Country" />
+        </p>
+        <p class="No_Space"><MadCap:variable name="SLContactInfo.EmailTechSupp" />
+        </p>
+        <p class="No_Space"><MadCap:variable name="SLContactInfo.Website" />
         </p>
         <p class="No_Space">&#160;</p>
-        <p class="No_Space"><MadCap:variable name="SL_Contact.Email" />
+        <p class="No_Space"><MadCap:variable name="SLContactInfo.PhoneSecondary" />
         </p>
-        <p class="No_Space"><MadCap:variable name="SL_Contact.Website" />
+        <p class="No_Space"><MadCap:variable name="SLContactInfo.PhonePrimary" />
         </p>
-        <p class="No_Space">&#160;</p>
-        <p class="No_Space"><MadCap:variable name="SL_Contact.Toll Free" />
-        </p>
-        <p class="No_Space"><MadCap:variable name="SL_Contact.PhoneNumber" />
-        </p>
-        <p class="No_Space"><MadCap:variable name="SL_Contact.Fax" />
+        <p class="No_Space"><MadCap:variable name="SLContactInfo.PhoneFax" />
         </p>
     </body>
 </html>
