@@ -6,7 +6,7 @@
     <body>
         <p>
             <MadCap:conditionalText MadCap:conditions="Company_Branding.Cascade TEK">The Final Reviewer is designated by the purchasing institution to verify the IQ OQ has been carried out in full. Common choices for Final Reviewers include the senior member of the testing party, a representative of the quality assurance department, the process manager, or the study director.</MadCap:conditionalText>
-            <MadCap:conditionalText MadCap:conditions="Company_Branding.SHEL LAB">The Final Reviewer is as an authorized member of the Sheldon Manufacturing, INC. staff, an authorized contractor, or an authorized distributor designated to give final approval that this IQ OQ protocol has been completed in full.</MadCap:conditionalText> </p>
+            <MadCap:conditionalText MadCap:conditions="Company_Branding.SHEL LAB">The Final Reviewer is an authorized member of the Sheldon Manufacturing, INC. staff, an authorized contractor, or an authorized distributor designated to give final approval that this IQ OQ protocol has been completed in full.</MadCap:conditionalText> </p>
         <ul>
             <li>The Final Reviewer reviews this document, the logged test data from the temperature distribution study, any corrective action plans, and any other referenced documents.</li>
             <li>The Final Reviewer must review and approve each attached or appended document to ensure the documentation is complete and accurate. This includes a copy of logged data from the temperature distribution study.</li>

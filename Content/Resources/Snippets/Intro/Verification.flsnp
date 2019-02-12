@@ -5,6 +5,6 @@
     </head>
     <body>
         <h5>Verification Testing</h5>
-        <p>This document provides a detailed challenge of the system installation and operation. All details of the installation are covered in the <b>Installation Qualification Section</b> of this protocol (page <MadCap:xref href="../../Topics/IQ/Design_Spec_ID.htm#IQ_Section">1</MadCap:xref>). Operational verifications are detailed in the <b>Operational Qualification Section</b> of this protocol (page <MadCap:xref href="../../Topics/OQ/OQ_Prep.htm#OQ_Section">1</MadCap:xref>). Each section includes a subsection for major components and/or operations and has detailed verification procedures (tests and inspections) and acceptance criteria.</p>
+        <p>This document provides a detailed challenge of the system installation and operation. All details of the installation are covered in the <b>Installation Qualification Section</b> of this protocol ( page <MadCap:xref href="../../Topics/IQ/Design_Spec_ID.htm#IQ_Section">1</MadCap:xref>). Operational verifications are detailed in the <b>Operational Qualification Section</b> of this protocol ( page <MadCap:xref href="../../Topics/OQ/OQ_Prep.htm#OQ_Section">1</MadCap:xref>). Each section includes a subsection for major components and / or operations and has detailed verification procedures (tests and inspections) and acceptance criteria.</p>
     </body>
 </html>
