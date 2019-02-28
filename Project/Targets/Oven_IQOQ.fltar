@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  InjectEmptyPages="true"
+  MasterToc="/Project/TOCs/IQOQ.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/Blank.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/SHELLAB.css"
+  ConditionTagExpression="include[&quot;Accessory Components.Feet_Leveling&quot; or &quot;Accessory Components.Shelving_Yes&quot; or &quot;Company_Branding.SHEL LAB&quot; or FuseHolderConfigs.220V_Inlet_Holder or ProductCat.Oven or PwrFeed.PwrFd-Cord or &quot;Voltage.220 - 240V&quot;] exclude[&quot;Accessory Components.Access_Port&quot; or &quot;Accessory Components.Feet_None&quot; or &quot;Company_Branding.Cascade TEK&quot; or FuseHolderConfigs.110V_CordInlet or FuseHolderConfigs.110V_Holder or FuseHolderConfigs.220V_TwoHolders or FuseHolderConfigs.AccessOutlet or Gas_Vac_Liquids.AMG or Gas_Vac_Liquids.CO2 or &quot;Gas_Vac_Liquids.Compressed Air&quot; or Gas_Vac_Liquids.GN2 or Gas_Vac_Liquids.N2 or Gas_Vac_Liquids.O2 or Gas_Vac_Liquids.Vacuum or ProductCat.Bead_Bath or ProductCat.Incubator or ProductCat.IncubatorCO2 or ProductCat.IncubatorPeltier or ProductCat.Oven_Vac or ProductCat.Oven_wTopVent or ProductCat.OvenCryo or ProductCat.Water_Bath or PwrFeed.PwrFd-Hardwire or &quot;Voltage.100 - 120V&quot; or &quot;Voltage.110 - 120V&quot;] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <PDF
+    PageLayout="TwoPageLeft"
+    PageMode="UseNone" />
+  <Variables>
+    <Variable
+      Name="Company_Branding/Brand">SHEL LAB</Variable>
+    <Variable
+      Name="SL_Units/Amb_Temp_Range">15°C and 40°C (59°F and 104°F)</Variable>
+    <Variable
+      Name="SL_Units/SL_Product">oven</Variable>
+  </Variables>
+</CatapultTarget>
